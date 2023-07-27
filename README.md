@@ -28,7 +28,7 @@
  ### Main skills:
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html">)&nbsp;
+![HTML](https://img.shields.io/badge/:badgeContent)&nbsp;
 
 
 ### Studying in this moment:
